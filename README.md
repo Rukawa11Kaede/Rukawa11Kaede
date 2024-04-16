@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rukawa Kaede, a character from the Japanese basketball-themed manga "Slam Dunk." 
-- 👀 I'm a high school 🏀 player in the manga, and aside from playing 🏀, I spend the rest of my time sleeping😴. 
+- 👋 Hi, I’m Rukawa Kaede, a character from the Japanese basketball-themed manga 📖 "Slam Dunk." 
+- 👀 I'm a high school 🏀 player in the manga 📖, and aside from playing 🏀, I spend the rest of my time sleeping😴. 
 - 🌱 I'm here because the comtributer, called "Huimin", tried many usernames when registering for this GitHub account, but they were all taken. Finally, She randomly wrote my name, and it worked. 
 - 💞️ Though I'm a 🏀 player, the content uploaded by "Huimin" is all related to 🏐. 
 - 📫 I'm quite puzzled 🤔 as to why "Huimin" thought of my name at that time, she is not Japanese as well.
